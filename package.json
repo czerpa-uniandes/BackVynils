@@ -53,10 +53,6 @@
     "tslint": "^5.20.0",
     "typescript": "^3.6.3"
   },
-  "engines": {
-    "node": "18.x",
-    "npm": "9.x"
-  },
   "jest": {
     "moduleFileExtensions": [
       "js",
